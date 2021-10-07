@@ -51,6 +51,16 @@
 
 <channels>
 <channel>
+<name>[B][COLOR violet]FILMES APPLE TV+[/COLOR][/B]</name>
+<thumbnail>https://i.ibb.co/K0yvJLs/apple-tv.png</thumbnail>
+<externallink>https://raw.githubusercontent.com/polentacomfrango/PASTAS/main/PASTA%2016</externallink>
+<fanart>https://i.ibb.co/hmCH7qC/fundo-roxo.jpg</fanart>
+<info>
+</channel>
+</channels>
+
+<channels>
+<channel>
 <name>[B][COLOR violet] FILMES ALEATORIOS[/COLOR][/B]</name>
 <thumbnail>https://i.ibb.co/G0QZgXQ/filmes-aleatorios.png</thumbnail>
 <externallink>https://raw.githubusercontent.com/polentacomfrango/PASTAS/main/PASTA%2012</externallink>
