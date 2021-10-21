@@ -6527,28 +6527,22 @@
 						
 							
 			
-	</item><item>
+	</item>
+	<item>
 			<title>[B][COLOR orange]SERIE[/COLOR]: Mistérios sem Solução[/B]</title>
 			<thumbnail>https://image.tmdb.org/t/p/w342/q2NvU1i5kwh1OChflkOuSTlaoc1.jpg</thumbnail>
 			
 			<info>Sinopse: Série reboot desenvolvida pela Netflix. Histórias imersivas e motivadas por personagens estão enraizadas nas experiências de pessoas comuns que viveram o impensável. Famílias, detetives e jornalistas esperam que os telespectadores possuam pistas para solucionar esses mistérios.</info><fanart>https://i.ibb.co/hmCH7qC/fundo-roxo.jpg</fanart>
-			</item><item>
-				<thumbnail>https://image.tmdb.org/t/p/w342/a97V0nC9IVtidZAFOx7VrBT0IWW.jpg</thumbnail>
-				
-					
-						<title>       T1 COMPLETA - Mistérios sem Solução</title><link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:16eff8dfd8e7f75e0e5219acd79b30b207dc6baf</link>
-						
+
+			<thumbnail>https://image.tmdb.org/t/p/w342/a97V0nC9IVtidZAFOx7VrBT0IWW.jpg</thumbnail>	
+		        <link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:d103b8565f097c12f1452d6490483c87b79b0028$nome=[B]1 TEMPORADA [/B]</link>	
+			<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:1faa3b81f00746bbaf39467c607f4fa0afc02ebb$nome=[B]2 TEMPORADA [/B]</link>		
 							
 			
-			</item><item>
-				<thumbnail>https://image.tmdb.org/t/p/w342/q2NvU1i5kwh1OChflkOuSTlaoc1.jpg</thumbnail>
+			</item>
 				
 					
-						<title>       T2 COMPLETA - Mistérios sem Solução</title><link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:1faa3b81f00746bbaf39467c607f4fa0afc02ebb</link>
-						
-							
-			
-	</item><item>
+						<item>
 			<title>[B][COLOR orange]SERIE[/COLOR]: Fugitivos da Marvel [/B]</title>
 			<thumbnail>https://image.tmdb.org/t/p/w342/iixkIE4sjRGmskHAgMb2tPJofZE.jpg</thumbnail>
 			
