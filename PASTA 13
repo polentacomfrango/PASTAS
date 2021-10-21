@@ -554,216 +554,67 @@
 	</item><item>
 		<title>[B][COLOR orange]SERIE[/COLOR]: The Walking Dead Um Novo Universo[/B]</title>
 		<thumbnail>https://image.tmdb.org/t/p/w342/z31GxpVgDsFAF4paZR8PRsiP16D.jpg</thumbnail>
-		
+		<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:6f5e7e09e82606996dea87c52f72193b65f7e670$nome=[B] 1T EP 01[/B]</link>
+		<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:5f2f9f8d5aa59594d85281e89346f3d6badfba8b$nome=[B] 1T EP 02[/B]</link>
+		<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:cbc212e7e5c36c61073c5d809622ec8fb38a17a7$nome=[B] 1T EP 03[/B]</link>
+		<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:8b73ff82a3d8436d34f85ad894369e51cbcfd33b$nome=[B] 1T EP 04[/B]</link>
+		<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:08b9a3eff0f2a33e0929d7dce8855c32476d5a6f$nome=[B] 1T EP 05[/B]</link>
+		<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:6cabe1083a493cfe287f0cf8c18b1de263c7a8b3$nome=[B] 1T EP 06[/B]</link>
+		<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:4257a734dcc4d11ea309aae7640c5a1f3841f2e5$nome=[B] 1T EP 07[/B]</link>
+		<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:0aab9dc0faaff56cc8003bccee84e447dd44cfbe$nome=[B] 1T EP 08[/B]</link>
+		<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:102b2764c81a579fdaa061ef9c40d76fcf1215a6$nome=[B] 1T EP 09 e 10[/B]</link>
 		<info>Sinopse: A série acompanha a primeira geração de jovens que cresceu no mundo pós-apocalíptico de The Walking Dead.</info><fanart>https://i.ibb.co/hmCH7qC/fundo-roxo.jpg</fanart>
-		</item><item>
-			<thumbnail>https://image.tmdb.org/t/p/w342/z31GxpVgDsFAF4paZR8PRsiP16D.jpg</thumbnail>
-					<title>       T1 EPISODIO 1 The Walking Dead Um Novo Universo</title><link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:6f5e7e09e82606996dea87c52f72193b65f7e670</link>
-					
-					</item>
-					<item>
-					<title>       T1 EPISODIO 2 The Walking Dead Um Novo Universo</title><link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:5f2f9f8d5aa59594d85281e89346f3d6badfba8b</link>
-					
-					</item>
-					<item>
-					<title>       T1 EPISODIO 3 The Walking Dead Um Novo Universo</title><link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:cbc212e7e5c36c61073c5d809622ec8fb38a17a7</link>
-					
-					</item>
-					<item>
-					<title>       T1 EPISODIO 4 The Walking Dead Um Novo Universo</title><link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:8b73ff82a3d8436d34f85ad894369e51cbcfd33b</link>
-					
-					</item>
-					<item>
-					<title>       T1 EPISODIO 5 The Walking Dead Um Novo Universo</title><link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:08b9a3eff0f2a33e0929d7dce8855c32476d5a6f</link>
-					
-					</item>
-					<item>
-					<title>       T1 EPISODIO 6 The Walking Dead Um Novo Universo</title><link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:6cabe1083a493cfe287f0cf8c18b1de263c7a8b3</link>
-					
-					</item>
-					<item>
-					<title>       T1 EPISODIO 7 The Walking Dead Um Novo Universo</title><link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:4257a734dcc4d11ea309aae7640c5a1f3841f2e5</link>
-					
-					</item>
-					<item>
-					<title>       T1 EPISODIO 8 The Walking Dead Um Novo Universo</title><link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:0aab9dc0faaff56cc8003bccee84e447dd44cfbe</link>
-					
-					</item>
-					<item>
-					<title>       T1 EPISODIO  9 E 10 The Walking Dead Um Novo Universo</title><link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:102b2764c81a579fdaa061ef9c40d76fcf1215a6</link>
-					
-					</item>
+		</item>
 					
         
 	</item><item>
 		<title>[B][COLOR orange]SERIE[/COLOR]: Lista Negra[/B]</title>
 		<thumbnail>https://image.tmdb.org/t/p/w342/htJzeRcYI2ewMm4PTrg98UMXShe.jpg</thumbnail>
 		
+		<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:edb4ff7026792a40b43fa23b1b7f1007d2b89c53$nome=[B] 1T [/B]</link>
+		<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:5dd153cc7df6514eac961856530d9cd9269b790a$nome=[B] 2T [/B]</link>
+		<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:b09f91d35eb1b0abb2c3b1c9b9353069be6d5a4d$nome=[B] 3T [/B]</link>
+		<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:8b73ff82a3d8436d34f85ad894369e51cbcfd33b$nome=[B] 1T [/B]</link>
+		<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:de32fb07e908b383da226b991e539759b85b7655$nome=[B] 4T EP 01[/B]</link>
+		<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:116d003863fa1892e165bd6df9d1b497022ec4e9$nome=[B] 4T EP 02[/B]</link>
+		<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:22920b560e815ce66ad7e82a74e76399cde2da68$nome=[B] 4T EP 03[/B]</link>
+		<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:26740f50502825fce7f06703f27c72ebaf09cccc$nome=[B] 4T EP 04[/B]</link>
+		<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:b83abeb83f40a7daf18b2fd53f2436fa4288c6cb$nome=[B] 4T EP 05[/B]</link>
+		<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:23e1f93199b6ec3b7e732a3669d87fb124d58eaf$nome=[B] 4T EP 06[/B]</link>
+		<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:6cce139e240523945a5fefa7337a38fdbb924a13$nome=[B] 4T EP 07[/B]</link>
+		<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:4c972fc6113c56b46a159bdcdace897e445f7008$nome=[B] 4T EP 08[/B]</link>
+		<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:52de1195a33d5dfaf4d7f087e37ad3791f1b8cbf$nome=[B] 4T EP 09[/B]</link>
+		<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:e03aff1ddd8c46960c7c1d9881e2e084a8eb80f8$nome=[B] 4T EP 10[/B]</link>
+		<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:ba2eb6d2e3bfbcdf471ff7557d4787aa4c818424$nome=[B] 4T EP 11[/B]</link>
+		<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:903f137ff541de59c16ebbfcb171dc520b8682db$nome=[B] 4T EP 12[/B]</link>
+		<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:b78ba8486b4542bf17bf6ad654cb9079674c0aa1$nome=[B] 4T EP 13[/B]</link>
+		<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:4138510f4d5191a9d73df29ebd0cb473c411cbcd$nome=[B] 4T EP 14[/B]</link>
+		<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:84f205dd4d767916b053383742eb1adc0c3337fa$nome=[B] 4T EP 15[/B]</link>
+		<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:d3635bc7f154a68a3763b332b68925c31168682f$nome=[B] 4T EP 16[/B]</link>
+		<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:afe5c40266e0cea1221a0f22fd3d76abd0d2f1b7$nome=[B] 4T EP 17[/B]</link>
+		<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:7a724f4b8a9fbe3dc5f8058e381a7964cc052f5d$nome=[B] 4T EP 18[/B]</link>
+		<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:fdb7fc3fa656bdc6d7c4317fb2577ddcb720853f$nome=[B] 4T EP 19[/B]</link>
+		<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:3bc9d3ff791e13bfa7729ea2de8e3438d075f36c$nome=[B] 4T EP 20[/B]</link>
+		<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:3bc9d3ff791e13bfa7729ea2de8e3438d075f36c$nome=[B] 4T EP 21[/B]</link>
+		<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:2a7c7440f76cddf8cd13bf7ac5308c0d2df72153$nome=[B] 4T EP 22[/B]</link>
+		
+		<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:38de343c476ea11f95d168de1ce93901394c6404$nome=[B] 5T EP 01 ao 05[/B]</link>
+		<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:2e517c799952294a6831a39e313c7609d3ad4d37$nome=[B] 5T EP 06[/B]</link>
+		<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:2f9c4786c0cee49afffd071aa77c69e82637277c$nome=[B] 5T EP 07[/B]</link>
+		<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:b124937bf8eb7afefd573f56407d02c97f1b09c6$nome=[B] 5T EP 08[/B]</link>
+		<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:8e3ee07bcc007e650d5c63db535c17ea8be266f1$nome=[B] 5T EP 09[/B]</link>
+		<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:4a050740d2325676b2f102a200593d384a25dda1$nome=[B] 5T EP 10[/B]</link>
+		<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:bf58b60ecba8c1ccb6cfea4e75f8697db91a02e1$nome=[B] 5T EP 11[/B]</link>
+		<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:272c6f3fcff6d82a59387d3862858f38d57554da$nome=[B] 5T EP 12 E 13[/B]</link>
+		<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:8987dc6d67e05c395ab3134bc24085ff7b7f78fe$nome=[B] 5T EP 14 AO 19[/B]</link>
+		<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:5479dcd752fdd60402ab61e6056922ef43175e80$nome=[B] 5T EP 20[/B]</link>
+		<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:7ce01e8a543ce955b9a9ea23590c71b7d35837c8$nome=[B] 5T EP 21[/B]</link>
+		<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:70cb474ad2f0c420da32e7c89f85d39f04e59408$nome=[B] 5T EP 22[/B]</link>
+		
 		<info>Sinopse: Após se entregar à polícia, um brilhante fugitivo oferece ajuda ao FBI, mas apenas se a novata Elizabeth Keen for sua parceira.</info><fanart>https://i.ibb.co/hmCH7qC/fundo-roxo.jpg</fanart>
-		</item><item>
-			<thumbnail>https://image.tmdb.org/t/p/w342/7DU6AkGVL2wsuspDkBBw6ItGrws.jpg</thumbnail>
-					<title>       T1 COMPLETA - Lista Negra</title><link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:edb4ff7026792a40b43fa23b1b7f1007d2b89c53</link>
-					
-					</item>
-					
-        
-		</item><item>
-			<thumbnail>https://image.tmdb.org/t/p/w342/ku2bRgu0dTUutSQrK3GZ0BqoVYZ.jpg</thumbnail>
-					<title>       T2 COMPLETA - Lista Negra</title><link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:5dd153cc7df6514eac961856530d9cd9269b790a</link>
-					
-					</item>
-					
-        
-		</item><item>
-			<thumbnail>https://image.tmdb.org/t/p/w342/vVIqgAq3dXMjuZN9jEjkkyB7Jl8.jpg</thumbnail>
-					<title>       T3 COMPLETA - Lista Negra</title><link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:b09f91d35eb1b0abb2c3b1c9b9353069be6d5a4d</link>
-					
-					</item>
-					
-        
-		</item><item>
-			<thumbnail>https://image.tmdb.org/t/p/w342/1jYatNKpDb0jAbfZGpIS0wZOAl6.jpg</thumbnail>
-					<title>       T4 EPISODIO 1 Lista Negra</title><link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:de32fb07e908b383da226b991e539759b85b7655</link>
-					
-					</item>
-					<item>
-					<title>       T4 EPISODIO 2 Lista Negra</title><link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:116d003863fa1892e165bd6df9d1b497022ec4e9</link>
-					
-					</item>
-					<item>
-					<title>       T4 EPISODIO 3 Lista Negra</title><link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:22920b560e815ce66ad7e82a74e76399cde2da68</link>
-					
-					</item>
-					<item>
-					<title>       T4 EPISODIO 4 Lista Negra</title><link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:26740f50502825fce7f06703f27c72ebaf09cccc</link>
-					
-					</item>
-					<item>
-					<title>       T4 EPISODIO 5 Lista Negra</title><link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:b83abeb83f40a7daf18b2fd53f2436fa4288c6cb</link>
-					
-					</item>
-					<item>
-					<title>       T4 EPISODIO 6 Lista Negra</title><link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:23e1f93199b6ec3b7e732a3669d87fb124d58eaf</link>
-					
-					</item>
-					<item>
-					<title>       T4 EPISODIO 7 Lista Negra</title><link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:6cce139e240523945a5fefa7337a38fdbb924a13</link>
-					
-					</item>
-					<item>
-					<title>       T4 EPISODIO 8 Lista Negra</title><link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:4c972fc6113c56b46a159bdcdace897e445f7008</link>
-					
-					</item>
-					<item>
-					<title>       T4 EPISODIO 9 Lista Negra</title><link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:52de1195a33d5dfaf4d7f087e37ad3791f1b8cbf</link>
-					
-					</item>
-					<item>
-					<title>       T4 EPISODIO 10 Lista Negra</title><link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:e03aff1ddd8c46960c7c1d9881e2e084a8eb80f8</link>
-					
-					</item>
-					<item>
-					<title>       T4 EPISODIO 11 Lista Negra</title><link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:ba2eb6d2e3bfbcdf471ff7557d4787aa4c818424</link>
-					
-					</item>
-					<item>
-					<title>       T4 EPISODIO 12 Lista Negra</title><link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:903f137ff541de59c16ebbfcb171dc520b8682db</link>
-					
-					</item>
-					<item>
-					<title>       T4 EPISODIO 13 Lista Negra</title><link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:b78ba8486b4542bf17bf6ad654cb9079674c0aa1</link>
-					
-					</item>
-					<item>
-					<title>       T4 EPISODIO 14 Lista Negra</title><link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:4138510f4d5191a9d73df29ebd0cb473c411cbcd</link>
-					
-					</item>
-					<item>
-					<title>       T4 EPISODIO 15 Lista Negra</title><link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:84f205dd4d767916b053383742eb1adc0c3337fa</link>
-					
-					</item>
-					<item>
-					<title>       T4 EPISODIO 16 Lista Negra</title><link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:d3635bc7f154a68a3763b332b68925c31168682f</link>
-					
-					</item>
-					<item>
-					<title>       T4 EPISODIO 17 Lista Negra</title><link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:afe5c40266e0cea1221a0f22fd3d76abd0d2f1b7</link>
-					
-					</item>
-					<item>
-					<title>       T4 EPISODIO 18 Lista Negra</title><link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:7a724f4b8a9fbe3dc5f8058e381a7964cc052f5d</link>
-					
-					</item>
-					<item>
-					<title>       T4 EPISODIO 19 Lista Negra</title><link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:fdb7fc3fa656bdc6d7c4317fb2577ddcb720853f</link>
-					
-					</item>
-					<item>
-					<title>       T4 EPISODIO 20 Lista Negra</title><link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:3bc9d3ff791e13bfa7729ea2de8e3438d075f36c</link>
-					
-					</item>
-					<item>
-					<title>       T4 EPISODIO 21 Lista Negra</title><link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:3bc9d3ff791e13bfa7729ea2de8e3438d075f36c</link>
-					
-					</item>
-					<item>
-					<title>       T4 EPISODIO 22 Lista Negra</title><link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:38de343c476ea11f95d168de1ce93901394c6404</link>
-					
-					</item>
-					
-        
-		</item><item>
-			<thumbnail>https://image.tmdb.org/t/p/w342/k0TUzZdY6vZaeulRbuuMosRitWU.jpg</thumbnail>
-					<title>       T5 EPISODIO  01 AO 05 Lista Negra</title><link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:2a7c7440f76cddf8cd13bf7ac5308c0d2df72153</link>
-					
-					</item>
-					<item>
-					<title>       T5 EPISODIO 6 Lista Negra</title><link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:2e517c799952294a6831a39e313c7609d3ad4d37</link>
-					
-					</item>
-					<item>
-					<title>       T5 EPISODIO 7 Lista Negra</title><link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:2f9c4786c0cee49afffd071aa77c69e82637277c</link>
-					
-					</item>
-					<item>
-					<title>       T5 EPISODIO 8 Lista Negra</title><link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:b124937bf8eb7afefd573f56407d02c97f1b09c6</link>
-					
-					</item>
-					<item>
-					<title>       T5 EPISODIO 9 Lista Negra</title><link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:8e3ee07bcc007e650d5c63db535c17ea8be266f1</link>
-					
-					</item>
-					<item>
-					<title>       T5 EPISODIO 10 Lista Negra</title><link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:4a050740d2325676b2f102a200593d384a25dda1</link>
-					
-					</item>
-					<item>
-					<title>       T5 EPISODIO 11 Lista Negra</title><link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:bf58b60ecba8c1ccb6cfea4e75f8697db91a02e1</link>
-					
-					</item>
-					<item>
-					<title>       T5 EPISODIO 12 E 13 Lista Negra</title><link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:272c6f3fcff6d82a59387d3862858f38d57554da</link>
-					
-					</item>
-					<item>
-					<title>       T5 EPISODIO 14 AO 19 Lista Negra</title><link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:8987dc6d67e05c395ab3134bc24085ff7b7f78fe</link>
-					
-					</item>
-					<item>
-					<title>       T5 EPISODIO 20 Lista Negra</title><link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:5479dcd752fdd60402ab61e6056922ef43175e80</link>
-					
-					</item>
-					<item>
-					<title>       T5 EPISODIO 21 Lista Negra</title><link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:7ce01e8a543ce955b9a9ea23590c71b7d35837c8</link>
-					
-					</item>
-					<item>
-					<title>       T5 EPISODIO 22 Lista Negra</title><link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:70cb474ad2f0c420da32e7c89f85d39f04e59408</link>
-					
-					</item>
-					
-        
-		</item><item>
+		</item>
+
+				
 			<thumbnail>https://image.tmdb.org/t/p/w342/dVrujyJBp6htAfKQcbscGiB0DdZ.jpg</thumbnail>
 					<title>       T6 EPISODIO  01 AO 04 Lista Negra</title><link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:7d8cf919d9205b64bd189b299703fdfb71c1ee6f</link>
 					
