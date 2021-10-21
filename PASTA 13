@@ -6698,9 +6698,14 @@
 				<thumbnail>https://image.tmdb.org/t/p/w342/1BA2A6RFKtGmUVwN0WPEGgLZdfF.jpg</thumbnail>
 				
 					
-			<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:321117e7fc2c260d48ebb5fe4d9393aab8005a71$nome=[B]TEMPORADA 1 [/B]</link>	
+			<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:321117E7FC2C260D48EBB5FE4D9393AAB8005A71$nome=[B]TEMPORADA 1 [/B]</link>	
 
-			<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:aa465bf193bb3d8065929cad328ae55f2d5a7248$nome=[B]TEMPORADA 2 [/B]</link>	
+			<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:AA465BF193BB3D8065929CAD328AE55F2D5A7248$nome=[B]TEMPORADA 2 [/B]</link>	
 
 	</item>
+	
+	
+	
+	
+	
 	
