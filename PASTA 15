@@ -6,46 +6,7 @@
 		<info></info>
 	</item>
 	
-	<item>
-		<title>[B]Power Couplee[COLOR violet]Twitch.tv[/COLOR][/B]</title>
-		<thumbnail>https://rd1.com.br/wp-content/uploads/2021/03/20210317-power-couple-brasil-record.jpg</thumbnail>
-		<fanart>https://i.ibb.co/NY0yjcX/770788-2048-1152.jpg</fanart>
-		<link>plugin://plugin.video.twitch/?channel_name=powercouplee;mode=play</link>
-		<info></info>
-	</item>
-
-<item>
-		<title>[B]Power Couplee 2[COLOR violet]Twitch.tv[/COLOR][/B]</title>
-		<thumbnail>https://rd1.com.br/wp-content/uploads/2021/03/20210317-power-couple-brasil-record.jpg</thumbnail>
-		<fanart>https://i.ibb.co/NY0yjcX/770788-2048-1152.jpg</fanart>
-		<link>plugin://plugin.video.twitch/?channel_name=powercouplefc;mode=play</link>
-		<info></info>
-	</item>
-
-<item>
-		<title>[B]Power Couplee 3[COLOR violet]Twitch.tv[/COLOR][/B]</title>
-		<thumbnail>https://rd1.com.br/wp-content/uploads/2021/03/20210317-power-couple-brasil-record.jpg</thumbnail>
-		<fanart>https://i.ibb.co/NY0yjcX/770788-2048-1152.jpg</fanart>
-		<link>plugin://plugin.video.twitch/?channel_name=AdmSouZa;mode=play</link>
-;mode=play</link>
-		<info></info>
-	</item>
-
-<item>
-		<title>[B]Power Couplee 4[COLOR violet]Twitch.tv[/COLOR][/B]</title>
-		<thumbnail>https://rd1.com.br/wp-content/uploads/2021/03/20210317-power-couple-brasil-record.jpg</thumbnail>
-		<fanart>https://i.ibb.co/NY0yjcX/770788-2048-1152.jpg</fanart>
-		<link>plugin://plugin.video.twitch/?channel_name=powercouplee_top;mode=play</link>
-		<info></info>
-	</item>
-
-<item>
-		<title>[B]Power Couplee 5[COLOR violet]Twitch.tv[/COLOR][/B]</title>
-		<thumbnail>https://rd1.com.br/wp-content/uploads/2021/03/20210317-power-couple-brasil-record.jpg</thumbnail>
-		<fanart>https://i.ibb.co/NY0yjcX/770788-2048-1152.jpg</fanart>
-		<link>plugin://plugin.video.twitch/?channel_name=powercouplefc;mode=play</link>
-		<info></info>
-	</item>
+	
 
 	<item>
 		<title>[B]TecTecBrasil [COLOR violet]Twitch.tv[/COLOR][/B]</title>
